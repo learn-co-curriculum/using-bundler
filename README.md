@@ -26,7 +26,7 @@ No! We're programmers damn it!
 
 ## Enter bundler
 
-Bundler handles all of this for you. It provides you with a `Gemfile` where you can keep your requirements in one place. The creates a single place for truth in your app.
+Bundler handles all of this for you. It provides you with a `Gemfile` where you can keep your requirements in one place. This creates a single place for truth in your app.
 
 - Need the Sinatra gem for your project? Add `gem 'sinatra'` your Gemfile.
 - Need the Sinatra gem, but at version 1.4.5? Add `gem 'sinatra', '1.4.5'` to your Gemfile.
