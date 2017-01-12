@@ -5,8 +5,6 @@
 1. Learn about requiring external code libraries, called gems, in your Ruby applications.
 2. Learn how to use Bundler and a Gemfile to manage gems and their dependencies in your applications.
 
-
-
 ### What are RubyGems?
 
 Nothing you ever write will be 100% your code. While you probably haven't noticed it every day you use somebody else's code. You didn't write your text editor, you didn't write Ruby, you didn't write your operating system. Those are the types of things that regular users interact with. As a developer there is a new set of outside code you will work with: Libraries. Libraries (or "gems" in Ruby parlance) are just bundles of code that someone else wrote for you to integrate into your code base. For example, remember rspec? That's a gem. Instead of everyone having to re-invent a way to do testing for ruby, initially one person and now hundreds of people have worked together to make a single amazing library that everyone can use. It's open source, and you integrate it using the RubyGems tool. Head over to rubygems.org, there are thousands of gems you can pull from that will make your life easier. That is the power of open source. Together we can create something no single person could make.
@@ -228,7 +226,7 @@ While both of these methods might look similiar they do different things. Both l
 
 
 ## Resources
-* [RailsCasts](http://railscasts.com/) - [#201 Bundler (revised)](http://railscasts.com/episodes/201-bundler-revised)
+* [RailsCasts](http://railscasts.com/) - [#201 Bundler](http://railscasts.com/episodes/201-bundler)
 * [Bundler Docs](http://bundler.io/) - [Bundler with Sinatra](http://bundler.io/sinatra.html)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/using-bundler' title='Gems and Bundler'>Gems and Bundler</a> on Learn.co and start learning to code for free.</p>
